@@ -15,3 +15,4 @@ Step-9 Open the shiksha portal, log-in and open "My-courses"
 Step-10 Tap the extension (Visible as a puzzle piece in most browsers0. Just tap on the extension and it will show you your current attendance percentage. 
 
 text me on harshmishra06102004@gmail.com for any issues. 
+    
