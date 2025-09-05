@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Attendance Helper",
+  "version": "1.0",
+  "description": "Shows attendance summary for IISERB students",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://shiksha.iiserb.ac.in/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
