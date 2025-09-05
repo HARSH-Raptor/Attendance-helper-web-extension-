@@ -1,2 +1,5 @@
 # Attendance-helper-web-extension-
 This extension serves the purpose of telling the students their attendance in percentage and the number of leaves they can take to maintain their 75% attendance criteria. This is a web based extension, hence it cannot be used by macOS or Smartphone users. It is meant to be used for IISER-Bhopal students for their Shiksha portal. Enjoy........
+
+How to use ?
+Step-1 
